@@ -1,2 +1,3 @@
 # ilapi-pro
-A Content Management for ILAPI Ghana
+A PHP Content Management for ILAPI Ghana
+The full project is contained in gitilapi.zip
